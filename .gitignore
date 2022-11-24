@@ -1,0 +1,5 @@
+yes
+yes.pub
+terraform.tfstate
+terraform.tfstate.backup
+.terraform*
